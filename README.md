@@ -5,3 +5,5 @@ Let me have a try...
 
 This line is ganna be added to branch feature-A
 
+This line is gonna be added to branck feature-B.
+I wonder what would happen when I merge the two different branches to the master branch.
