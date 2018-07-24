@@ -5,3 +5,4 @@ Let me have a try...
 
 This line is ganna be added to branch feature-A
 
+Test git clone and pull
